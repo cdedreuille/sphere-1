@@ -15,7 +15,7 @@ Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Spher
 
 # License
 
-- [MIT License](http://www.opensource.org/licenses/mit-license.php)
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
 
 Copyright (c) 2012 Joshua Perez, http://joshua-perez.com
 
