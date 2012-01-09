@@ -8,10 +8,9 @@ Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Spher
 
 - [Joshua Perez](http://joshua-perez.com)
 
-# Links
+# Example
 
-- [Project Page](https://github.com/joshua-perez/Sphere)
-- [Online Demo](http://experiments.joshua-perez.com/sphere/)
+- [Online demo](http://experiments.joshua-perez.com/sphere/)
 
 # License
 
