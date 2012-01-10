@@ -12,7 +12,8 @@ Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Spher
 
 - [Online demo](http://experiments.joshua-perez.com/sphere/)
 
-## License* * * *
+## License
+* * * *
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
