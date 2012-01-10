@@ -4,15 +4,15 @@ Canvas experiment using math sine and cosine functions to generate a particle sp
 
 Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Sphere) experiment.
 
-# Author
+## Author
 
 - [Joshua Perez](http://joshua-perez.com)
 
-# Example
+## Example
 
 - [Online demo](http://experiments.joshua-perez.com/sphere/)
 
-# License
+## License
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
 
