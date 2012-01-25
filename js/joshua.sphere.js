@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  * 
- * @author Joshua Perez | http://joshua-perez.com
+ * @author Joshua Perez (http://joshua-perez.com)
  * @version 1.0
  */
 var Sphere = function() {
@@ -27,7 +27,7 @@ var Sphere = function() {
 	// Constants
 	var FRAMES = 60;
 
-	// Variables
+	// Properties
 	var canvas = null,
 		context = null,
 		width = window.innerWidth,
