@@ -2,6 +2,7 @@
 
 Canvas experiment utilizing the `Math.sin` and `Math.cos` functions to generate a 
 random particle sphere over time. Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Sphere) experiment.
+
 ----
 
 
