@@ -1,16 +1,22 @@
 # Sphere
 
-Canvas experiment using math sine and cosine functions to generate a particle sphere.
+Canvas experiment utilizing the `Math.sin` and `Math.cos` functions to generate a 
+random particle sphere over time. Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Sphere) experiment.
+----
 
-Inspired by Hakim El Hattab's original [Sphere](https://github.com/hakimel/Sphere) experiment.
+
 
 ## Author
 
 - [Joshua Perez](http://joshua-perez.com)
 
+
+
 ## Example
 
 - [Online demo](http://experiments.joshua-perez.com/sphere/)
+
+
 
 ## License
 
