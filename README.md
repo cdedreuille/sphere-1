@@ -15,7 +15,7 @@ random particle sphere over time.<br />Inspired by Hakim El Hattab's original [S
 
 ## Example
 
-- [Online demo](http://labs.joshua-perez.com/canvas/sphere/)
+- [Online demo](http://lab.joshua-perez.com/canvas/sphere/)
 
 
 
